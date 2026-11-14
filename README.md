@@ -5,7 +5,7 @@
 An end-to-end credit risk project, built the way a New Zealand Bank would do it: from raw loan data to a scorecard, stress testing, monitoring and regulation.
 
 ## Why I am building this
-I have 10+ years of experience in operations and reporting, and an MBA in
+I have 15+ years of experience in operations and reporting, and an MBA in
 Finance. I am now doing a Master of Applied Data Science at the University
 of Canterbury, and I am building this lab to learn credit risk modelling
 the way NZ banks do it.
